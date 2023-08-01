@@ -1,0 +1,5 @@
+node_modules
+*.pdf
+成绩
+*.exe
+*.vsix
