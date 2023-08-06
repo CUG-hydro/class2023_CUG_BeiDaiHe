@@ -3,3 +3,6 @@ node_modules
 成绩
 *.exe
 *.vsix
+
+*.ts
+*.epub
